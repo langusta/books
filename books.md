@@ -47,6 +47,8 @@ Not scientific:
 	* City of the Chasch, Vance (157 pages) - science fiction
 	* http://earlyretirementextreme.com/
 	* How to Fail at Almost Everything and Still Win Big, Adams (~260 pages)
+	* Nieoczywistości. Ekonomiczna teoria wszystkiego, Becker, Posner
+	* Steve Jobs, Isaacson
 
 Scientific:
 
