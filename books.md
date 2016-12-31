@@ -42,6 +42,7 @@ Not scientific:
 	* Mechanika kwantowa. Teoretyczne minimum, Susskind
 	* Universe from nothing, Krauss
 	* Sekretne Życie Drzew, Wohlleben
+	* Granice kosmosu i kosmologii, Heller
 	* research on books about cognitive sciences
 * Others:
 	* City of the Chasch, Vance (157 pages) - science fiction
