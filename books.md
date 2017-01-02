@@ -12,11 +12,13 @@ Queue:
 
 * Pułapki Myślenia, Kahneman - psychology
 * GEB, Hofstadter
+* Reasons and Persons, Derek Parfit
 * your brain at work
 
 Not scientific:
 
 * Human, mind, philosophy:
+	* The Hedonistic Imperative, David Pearce (https://www.hedweb.com/hedab.htm)
 	* Language in Thought and Action, Hayakawa (196 pages)
 	* The Alchemist, Coelho (208 pages)
 	* Consciousness Explained, Dennet
@@ -50,6 +52,7 @@ Not scientific:
 	* How to Fail at Almost Everything and Still Win Big, Adams (~260 pages)
 	* Nieoczywistości. Ekonomiczna teoria wszystkiego, Becker, Posner
 	* Steve Jobs, Isaacson
+	* More Than Two: A Practical Guide to Ethical Polyamory
 
 Scientific:
 
@@ -77,7 +80,6 @@ Scientific:
 	* Rational Choice in an Uncertain World, Hastie
 	* Judgement under uncertanity: Heuristics and Biases, Kahneman
 * Philosophy:
-	* Reasons and Persons, Derek Parfit
 	* I am You, Daniel Kolak - tu są dość ekscentryczne idee
 	* ___, Jaegwon Kim
 	* ___, Peter & Galen Strawson
