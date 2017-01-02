@@ -6,7 +6,6 @@ Currently read:
 * Państwo, Platon
 * 59 seconds, Think a little, change a lot, Wiseman (198 pages) - self-help
 * More Precisely: The Math You Need to Do Philosophy
-* Człowiek, Tomasz Rożek
 
 Queue:
 
@@ -97,3 +96,4 @@ Read:
 * Surely You're Joking, Mr. Feynman!, Feynman - 5/5
 * The Monk Who Sold His Ferrari, Sharma - 3/5
 * The Art of Learning, Waitzkin - 4/5
+* Człowiek, Tomasz Rożek - 2,5/5
