@@ -51,6 +51,7 @@ Not scientific:
 	* How to Fail at Almost Everything and Still Win Big, Adams (~260 pages)
 	* Nieoczywistości. Ekonomiczna teoria wszystkiego, Becker, Posner
 	* Steve Jobs, Isaacson
+	* Innowatorzy, Isaacson
 	* More Than Two: A Practical Guide to Ethical Polyamory
 
 Scientific:
