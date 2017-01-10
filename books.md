@@ -17,6 +17,7 @@ Queue:
 Not scientific:
 
 * Human, mind, philosophy:
+	* How to Win Friends and Influence People, Carnegie
 	* The Hedonistic Imperative, David Pearce (https://www.hedweb.com/hedab.htm)
 	* Language in Thought and Action, Hayakawa (196 pages)
 	* The Alchemist, Coelho (208 pages)
