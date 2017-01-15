@@ -36,6 +36,7 @@ Not scientific:
 	* Purpose in the Universe, Mulgan
 	* Człowiek w poszukiwaniu sensu, Viktor E. Frankl
 	* getting past no, Ury
+	* Człowiek wśród ludzi. Zarys psychologii społecznej, Wojciszke
 * Science:
 	* Pale Blue Dot, Carl Sagan (human future in space)
 	* A Step Farther Out, Pournelle (384 pages, merits of space exploration)
