@@ -2,6 +2,7 @@
 Currently read:
 
 * From AI to Zombies
+* Pułapki Myślenia, Kahneman - psychology
 * Good and Real, Drescher
 * Państwo, Platon
 * 59 seconds, Think a little, change a lot, Wiseman (198 pages) - self-help
@@ -9,10 +10,10 @@ Currently read:
 
 Queue:
 
-* Pułapki Myślenia, Kahneman - psychology
 * GEB, Hofstadter
 * Reasons and Persons, Derek Parfit
 * your brain at work
+* Nudge: Improving Decisions About Health, Wealth, and Happiness, Thaler, Sunstein
 
 Not scientific:
 
