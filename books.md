@@ -14,6 +14,11 @@ Queue:
 * Reasons and Persons, Derek Parfit
 * your brain at work
 * Nudge: Improving Decisions About Health, Wealth, and Happiness, Thaler, Sunstein
+* 'Algorithms to live by' by Griffis
+* Superforecasting by Philip Tetlock & Dan Gardner
+* Thinking and Deciding by Jonathan Baron
+* Getting Things Done by David Allen
+* Doing Good Better by Will MacAskill
 
 Not scientific:
 
