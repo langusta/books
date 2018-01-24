@@ -41,7 +41,6 @@ Not scientific:
 	* getting past no, Ury
 	* Człowiek wśród ludzi. Zarys psychologii społecznej, Wojciszke
 * Science:
-	* Pale Blue Dot, Carl Sagan (human future in space)
 	* A Step Farther Out, Pournelle (384 pages, merits of space exploration)
 	* Teoretyczne minimum. Co musisz wiedzieć, żeby zacząć zajmować się fizyką, Susskind
 	* Thinking Physics, Epstein (585 pages) - physics
@@ -106,3 +105,4 @@ Read:
 * From AI to Zombies - 5/5
 * Pułapki Myślenia, Kahneman - psychology - 5/5
 * More Precisely: The Math You Need to Do Philosophy - 3/5
+* Pale Blue Dot, Carl Sagan (human future in space) - 5/5
