@@ -1,12 +1,9 @@
 
 Currently read:
 
-* From AI to Zombies
-* Pułapki Myślenia, Kahneman - psychology
 * Good and Real, Drescher
 * Państwo, Platon
 * 59 seconds, Think a little, change a lot, Wiseman (198 pages) - self-help
-* More Precisely: The Math You Need to Do Philosophy
 
 Queue:
 
@@ -106,3 +103,6 @@ Read:
 * The Monk Who Sold His Ferrari, Sharma - 3/5
 * The Art of Learning, Waitzkin - 4/5
 * Człowiek, Tomasz Rożek - 2,5/5
+* From AI to Zombies - 5/5
+* Pułapki Myślenia, Kahneman - psychology - 5/5
+* More Precisely: The Math You Need to Do Philosophy - 3/5
